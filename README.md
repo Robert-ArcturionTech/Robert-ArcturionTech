@@ -10,13 +10,13 @@ I build practical AI workflows that organize information, cut repeated work, and
 
 | Project | What it does |
 |---|---|
-| [cross-harness-canon](https://github.com/ArcturionTechnologies/cross-harness-canon) | One source of agent instructions → byte-identical boot files for Claude Code, Codex, Gemini, Hermes & Antigravity, with drift checks. |
-| [agent-behavior-hooks](https://github.com/ArcturionTechnologies/agent-behavior-hooks) | Claude Code hooks that shape agent behavior: wall clock, response-length register, per-model nudges, crash-safe wrapper, loop guard. |
-| [local-llm-router](https://github.com/ArcturionTechnologies/local-llm-router) | Local-first LLM router for Apple Silicon: tiered escalation, thermal back-off, model lock, rate and budget guards. |
-| [llm-cost-meter](https://github.com/ArcturionTechnologies/llm-cost-meter) | Weekly LLM cost, latency and token reports per agent and model from the logs your agents already write. |
-| [arcturion-engineering](https://github.com/ArcturionTechnologies/arcturion-engineering) | Claude Code plugin: context engineering, code symbol index, cost-capped second-model review, scaffolds, skill linter. |
-| [spotify-mcp](https://github.com/ArcturionTechnologies/spotify-mcp) | Dependency-free Spotify MCP server (playback, queue, search, library, bulk playlist tools). |
-| [apple-reminders-mcp](https://github.com/ArcturionTechnologies/apple-reminders-mcp) | Native Swift MCP server for Apple Reminders via EventKit. |
+| [cross-harness-canon](https://github.com/Robert-ArcturionTech/cross-harness-canon) | One source of agent instructions → byte-identical boot files for Claude Code, Codex, Gemini, Hermes & Antigravity, with drift checks. |
+| [agent-behavior-hooks](https://github.com/Robert-ArcturionTech/agent-behavior-hooks) | Claude Code hooks that shape agent behavior: wall clock, response-length register, per-model nudges, crash-safe wrapper, loop guard. |
+| [local-llm-router](https://github.com/Robert-ArcturionTech/local-llm-router) | Local-first LLM router for Apple Silicon: tiered escalation, thermal back-off, model lock, rate and budget guards. |
+| [llm-cost-meter](https://github.com/Robert-ArcturionTech/llm-cost-meter) | Weekly LLM cost, latency and token reports per agent and model from the logs your agents already write. |
+| [arcturion-engineering](https://github.com/Robert-ArcturionTech/arcturion-engineering) | Claude Code plugin: context engineering, code symbol index, cost-capped second-model review, scaffolds, skill linter. |
+| [spotify-mcp](https://github.com/Robert-ArcturionTech/spotify-mcp) | Dependency-free Spotify MCP server (playback, queue, search, library, bulk playlist tools). |
+| [apple-reminders-mcp](https://github.com/Robert-ArcturionTech/apple-reminders-mcp) | Native Swift MCP server for Apple Reminders via EventKit. |
 
 Implementation is AI-assisted — I own the requirements, architecture, and review. These are portfolio projects, not revenue businesses.
 
