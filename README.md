@@ -24,5 +24,8 @@ Implementation is AI-assisted — I own the requirements, architecture, and revi
 
 Open to remote roles and contract gigs in AI implementation, automation, and evaluation.
 
-- ✉️ **Email:** [robert@arcturiongroup.com](mailto:robert@arcturiongroup.com)
-- 💼 **LinkedIn:** [robert-lingoes](https://www.linkedin.com/in/robert-lingoes-a0711a437/)
+- ✉️ **Email:** [robert.lingoes@arcturiongroup.com](mailto:robert.lingoes@arcturiongroup.com)
+- 💼 **LinkedIn:** [Robert Lingoes](https://www.linkedin.com/in/robertlingoes/)
+
+
+- 🌐 **Portfolio:** [arcturiongroup.com](https://arcturiongroup.com/)
